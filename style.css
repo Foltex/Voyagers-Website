@@ -15,7 +15,7 @@ body {
     background-position: center; 
     background-repeat: no-repeat; 
     cursor: none;
-    max-width: max-content;
+    max-width: 100%;
 }
 
 /* Custom Cursor */
